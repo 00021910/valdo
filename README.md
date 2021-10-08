@@ -32,5 +32,5 @@ console.log(
 
 console.log(
     valdo.isValid(myScheme, obj2)
-}
+} // returns false, property types are not matching
 ```
