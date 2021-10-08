@@ -9,7 +9,7 @@ Minimalists' compact JSON-Validation library.
 
 ### Usage:
 
-```
+```js
 // After importing/declaring valdo...
 let myScheme = valdo.newScheme({
     name: valdo.types.string(),
