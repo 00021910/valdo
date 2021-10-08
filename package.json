@@ -1,0 +1,29 @@
+{
+  "name": "valdo",
+  "version": "1.0.0",
+  "description": "Minimal & compact JSON-validation library (<1.6KB final dist-file, uncompressed)",
+  "main": "dist/index.js",
+  "scripts": {
+    "exec": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "json",
+    "json-scheme",
+    "scheme",
+    "validation",
+    "json-validation",
+    "valdo",
+    "valdojs",
+    "valdo.js"
+  ],
+  "author": "Masharibov Azizbek",
+  "license": "MIT",
+  "dependencies": {
+    "obj2scheme": "^1.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
